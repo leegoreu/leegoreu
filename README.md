@@ -1,4 +1,4 @@
-## About Me 👨‍💻  
+## About Me 🌸  
 
 ### 🎓 Education
 - [Sungkyunkwan University](https://www.skku.edu/eng) – B.S. in Software (Class of 2026)
