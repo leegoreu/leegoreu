@@ -12,7 +12,8 @@
 </p>
 
 ### 🚀 Experiences
-- (2024.12–Present) Research Intern @ CSL (Computer Systems Lab), SKKU  
+- (2025.07-2025.10) SWE Intern @ Saifly
+- (2025.01–2025.06) Research Intern @ CSL (Prof. Euiseong Seo), SKKU  
 - (2024.03–2024.12) International Student Tutor @ SKKU  
 
 ### ⚡ Projects
